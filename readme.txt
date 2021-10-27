@@ -1,5 +1,6 @@
 Apple
 Orange
-pear
 mango
 pineapple
+grapes
+strawberries
